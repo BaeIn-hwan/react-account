@@ -1,0 +1,27 @@
+:root {
+  --font-base: #111;
+
+  --n-gray-1: #f1f1f1;
+  --n-gray-2: #efefef;
+  --n-gray-3: #d9d9d9;
+  --n-gray-4: #bcbcbc;
+  --n-gray-5: #999;
+  --n-gray-6: #656565;
+  --n-gray-7: #5f5f5f;
+  --n-gray-8: #4a4a4a;
+  --n-gray-9: #383838;
+
+  --n-blue-1: #ebf3fb;
+  --n-blue-2: #d9eafb;
+  --n-blue-3: #73b1f0;
+  --n-blue-4: #0071e3;
+  --n-blue-5: #06c;
+  --n-blue-6: #005ab6;
+
+  --n-red-1: #ffa39e;
+  --n-red-2: #ff7875;
+  --n-red-3: #ff4d4f;
+  --n-red-4: #f5222d;
+  --n-red-5: #cf1322;
+  --n-red-6: #a8071a;
+}

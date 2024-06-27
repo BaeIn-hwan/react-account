@@ -1,0 +1,54 @@
+.tableWrapper {
+  overflow: hidden;
+  border-radius: 6px 6px 0 0;
+}
+
+.table {
+  display: table;
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tableHead {
+  display: table-header-group;
+}
+
+.tableBody {
+  display: table-row-group;
+}
+
+.tableRow {
+  display: table-row;
+}
+
+.tableRow:hover {
+  background-color: var(--n-gray-2);
+}
+
+.tableHeader {
+  background-color: var(--n-gray-1);
+  font-weight: 600;
+}
+
+.tableCell {
+  display: table-cell;
+  padding: 10px 15px;
+  border-bottom: 1px solid var(--n-gray-3);
+  vertical-align: middle;
+}
+
+.tableCell.center {
+  text-align: center;
+}
+
+.tableCell.right {
+  text-align: center;
+}
+
+.tableCheckbox {
+  text-align: center;
+  width: 40px;
+  padding: 0;
+  font-size: 0;
+}
